@@ -17,6 +17,9 @@ the process of analyzing a  string of  symbols, either in  natural language or i
 
 # SCREENSHOTS
 
-
+![](Images/jcs1.png)
+![](Images/jcs2.png)
+![](Images/jcs3.png)
+![](Images/jcs4.png)
 
 
